@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "kategori": "wisata",
+      "nama": "Nusa Penida",
+      "deskripsi": "Rasakan pantai yang indah sejernih berlian .",
+      "harga": 130000,
+      "gambar": "nusapenida.jpg"
+    },
+    {
+      "kategori": "wisata",
+      "nama": "Panglipuran",
+      "deskripsi": "Desa yang memiliki tradisi unik dan menjadi desa paling bersih di Indonesia.",
+      "harga": 80000,
+      "gambar": "panglipuran.jpeg"
+    },
+    {
+      "kategori": "wisata",
+      "nama": "Lovina Beach",
+      "deskripsi": "Nikmati pantai lovina dan dapatkan kesempatan untuk melihat lumba lumba yang bersahabat.",
+      "harga": 900000,
+      "gambar": "lovina.png"
+    },
+    {
+      "kategori": "wisata",
+      "nama": "Ulu watu",
+      "deskripsi": "Tempat wisata dimana yang memiliki tarian unik yaitu tari kecak di pura mesti watu.",
+      "harga": 790000,
+      "gambar": "tarikecak.jpg"
+    },
+    {
+      "kategori": "wisata",
+      "nama": "Blue Lagoon",
+      "deskripsi": "Snorkling bersama ikan ikan dan karang karang yang masih asri dan indah.",
+      "harga": 125000,
+      "gambar": "bluela.jpg"
+    }
+  ]
+}
